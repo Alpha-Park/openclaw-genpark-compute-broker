@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-compute-broker",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Compute Broker - Distributed GPU/CPU spot compute auction broker with VCG mechanism, Young checkpoint interval, and Pareto placement.",
+  "tools": [
+    "calculate_preemption_risk",
+    "run_vcg_spot_auction",
+    "optimize_cluster_placement"
+  ]
+}
